@@ -13,7 +13,7 @@ Currently, I'm primarily working on Antarctic biodiversity with [Securing Antarc
   🌊 Assessing effects of taxonomic uncertainty on measures of biodiversity
 
 ## Programming with:
-(https://skillicons.dev/icons?i=r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,vscode)](https://skillicons.dev)
 <!--
 **DavidAClarke/DavidAClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
