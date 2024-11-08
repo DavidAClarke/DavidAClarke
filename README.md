@@ -4,9 +4,9 @@ I am a biodiversity scientist based in Melbourne Australia. My work and research
 
 Currently, I'm primarily working on Antarctic biodiversity with [Securing Antarctica's Environmental Future](https://www.arcsaef.com). Some of my current projects relate to:
 
-  🐧Antarctic and Southern Ocean biodiversity responses to climate 
+  🐧Antarctic and Southern Ocean biodiversity responses to climate change
   
-  🛰️ Integrated sampling designs for capturing data in remote locations
+  🛰️ Integrated sampling designs for capturing biodiversity and environmental data in remote locations
   
   📉 Quantification and propagation of uncertainty in biodiversity modelling
   
