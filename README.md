@@ -8,7 +8,7 @@ Currently, I'm primarily working on Antarctic biodiversity with [Securing Antarc
   
   🛰️ Integrated sampling designs for capturing biodiversity and environmental data in remote locations
   
-  📉 Quantification and propagation of uncertainty in biodiversity modelling
+  📉 Quantification and propagation of uncertainty in spatial biodiversity modelling
   
   🌊 Assessing effects of taxonomic uncertainty on measures of biodiversity
 
