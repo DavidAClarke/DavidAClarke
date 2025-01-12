@@ -14,6 +14,9 @@ Currently, I'm primarily working on Antarctic biodiversity with [Securing Antarc
 
 ## Programming with:
 [![My Skills](https://skillicons.dev/icons?i=r,vscode)](https://skillicons.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAClarke&layout=compact&theme=radical)
 <!--
 **DavidAClarke/DavidAClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
