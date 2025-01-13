@@ -17,7 +17,7 @@ Currently, I'm primarily working on Antarctic biodiversity with [Securing Antarc
 
 ## GitHub info:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhuzaifi0604&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAClarke&layout=compact&theme=radical)
 <!--
 **DavidAClarke/DavidAClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
