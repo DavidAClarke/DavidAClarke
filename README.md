@@ -13,7 +13,7 @@ Currently, I'm primarily working on Antarctic biodiversity as an affiliate with 
   🌊 Assessing effects of taxonomic uncertainty on measures of biodiversity
 
 ## Programming with and using:
-[![My Skills](https://skillicons.dev/icons?i=r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
 ## GitHub info:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&count_private=true&show=prs_merged&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAClarke&layout=compact&theme=radical)
