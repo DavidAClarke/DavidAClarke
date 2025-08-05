@@ -12,7 +12,7 @@ Currently, I'm primarily working on Antarctic biodiversity as an affiliate with 
   
   🌊 Assessing effects of taxonomic uncertainty on measures of biodiversity
 
-## Programming with and using:
+## Programming with:
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
 ## GitHub info:
