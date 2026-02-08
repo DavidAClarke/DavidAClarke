@@ -16,7 +16,7 @@ Currently, I'm primarily working on Antarctic biodiversity as an affiliate with 
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
 ## GitHub info:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&count_private=true&show=prs_merged&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAClarke&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAClarke&layout=compact&theme=radical)
 ![](https://komarev.com/ghpvc/?username=DavidAClarke&color=blue)
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&count_private=true&include_all_commits=true)-->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAClarke&count_icons=true&theme=radical)-->
