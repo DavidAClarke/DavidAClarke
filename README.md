@@ -1,16 +1,6 @@
 ## Hello, I'm David Clarke 👋
 
-I am a biodiversity scientist based in Melbourne Australia. My work and research interests focus on the measurement and monitoring of biodiversity, with particular interests in spatial ecology, earth observation, biodiversity informatics, and the intersections thereof. 
-
-Currently, I'm primarily working on Antarctic biodiversity as an affiliate with [Securing Antarctica's Environmental Future](https://www.arcsaef.com). Some of my current projects relate to:
-
-  🐧Antarctic and Southern Ocean biodiversity responses to climate change
-  
-  🛰️ Integrated sampling designs for capturing biodiversity and environmental data in remote locations
-  
-  📉 Quantification and propagation of uncertainty in spatial biodiversity modelling
-  
-  🌊 Assessing effects of taxonomic uncertainty on measures of biodiversity
+I am a biodiversity scientist based in Melbourne Australia. My work and research interests focus on the management, monitoring and measurement of biodiversity, with particular interests in spatial ecology, earth observation, biodiversity informatics, and the intersections thereof. 
 
 ## Programming with:
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
